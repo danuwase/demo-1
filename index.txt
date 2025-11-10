@@ -1,3 +1,0 @@
-Bienvenue sur Git et Github
-Vous allez apprecier ce parcours
-Vous allez apprecier ce parcours avec git
